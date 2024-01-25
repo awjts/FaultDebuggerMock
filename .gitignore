@@ -1,0 +1,5 @@
+/.vs
+/FaultDebuggerMock/*.aps
+/FaultDebuggerMock/x64
+/x64
+/FaultDebuggerMock/*.user
